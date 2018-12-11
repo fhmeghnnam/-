@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = [`${client.guilds.size} Server`,'!help','Type !help',`${client.users.size} Members`,'!inv','By: Mohamed | MohamedSamaYT'];
+    var setGame = [`DTM system`,'!help','Type !help',`${client.users.size} Members`,'DTM','By: Legend_FH'];
     var i = -1;
     var j = 0;
     setInterval(function (){
