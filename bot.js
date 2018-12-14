@@ -410,6 +410,14 @@ client.on('message', async message => {
 
 
 
+client.on("ready", () => { // كود رينبو   function lol() {     client.guilds.get('476398959149973505).roles.find("name", "ツ Legend").setColor("RANDOM");   };   setInterval(lol, 1000); });
+
+
+
+
+
+
+
  client.on('message', message => {
     if (message.content.startsWith(prefix + "bot")) {
     message.channel.send({
