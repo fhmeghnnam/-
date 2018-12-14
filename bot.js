@@ -415,7 +415,7 @@ function lol()
 {     client.guilds.get('476398959149973505')
 .roles.find("name", "ツ Legend")
 .setColor("RANDOM");   };   
-setInterval(lol, 10000); 
+setInterval(lol, 20000); 
 }
 );
 
