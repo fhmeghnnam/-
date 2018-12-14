@@ -415,7 +415,7 @@ function lol()
 {     client.guilds.get('476398959149973505')
 .roles.find("name", "ツ Legend")
 .setColor("RANDOM");   };   
-setInterval(lol, 1000000); 
+setInterval(lol, 100000); 
 }
 );
 
@@ -432,7 +432,7 @@ setInterval(lol, 1000000);
             .setAuthor(client.user.username,client.user.avatarURL)
             .setThumbnail(client.user.avatarURL)
             .setColor('RANDOM')
-            .setTitle('``INFO ZeusSHOP Community ©`` ')
+            .setTitle('``INFO DTM Community ©`` ')
             .addField('``My Ping``' , [`${Date.now() - message.createdTimestamp}` + 'MS'], true)
             .addField('``RAM Usage``', `[${(process.memoryUsage().rss / 1048576).toFixed()}MB]`, true)
             .addField('``servers``', [client.guilds.size], true)
