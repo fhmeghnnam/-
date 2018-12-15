@@ -421,6 +421,9 @@ setInterval(lol, 20000);
 
 
 
+member.addRole(member.guild.roles.find("name","Members")
+}
+);
 
 
 
