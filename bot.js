@@ -1249,6 +1249,17 @@ msg.delete();
 })
 }
 });
+
+
+
+
+client.on('ready', () => {
+   client.user.setGame('DTM Never Die', "https://www.twitch.tv/NouNou");
+});
+client.login(process.env.BOT_STREAM);
+
+
+
 client.on('message', async message =>{
 const ms = require("ms");
 if (message.author.omar) return;
