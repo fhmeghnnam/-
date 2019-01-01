@@ -1,0 +1,2359 @@
+{
+  "active": true,
+  "isPreset": false,
+  "sortIndex": 0,
+  "version": 2,
+  "recentColors": [],
+  "successNotification": {
+    "value": true
+  },
+  "warningNotification": {
+    "value": true
+  },
+  "infoNotification": {
+    "value": true
+  },
+  "errorNotification": {
+    "value": true
+  },
+  "coordinates": {
+    "primaryColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": 69,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "secondaryColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "biomeColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "directionColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": 69,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "chunksColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "roundLocation": {
+      "value": true
+    },
+    "biomeEnabled": {
+      "value": true
+    },
+    "directionEnabled": {
+      "value": true
+    },
+    "chunksEnabled": {
+      "value": false
+    },
+    "hideXYZ": {
+      "value": false
+    },
+    "modOrientation": "VERTICAL",
+    "sizeX": 119.0,
+    "sizeY": 43.0,
+    "centerBox": {
+      "xBox": 4,
+      "yBox": 2,
+      "xOffset": 0.2549123738714817,
+      "yOffset": 0.4067796610169492
+    },
+    "topLeftBox": {
+      "xBox": 2,
+      "yBox": 1,
+      "xOffset": 0.7732342007434945,
+      "yOffset": 0.2862523540489642
+    },
+    "bottomRightBox": {
+      "xBox": 5,
+      "yBox": 3,
+      "xOffset": 0.7307488050982475,
+      "yOffset": 0.512241054613936
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.009
+  },
+  "toggleSneak": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "toggleSneakRenderMode": "CLASSIC",
+    "toggleSneakMode": "SPRINT",
+    "sprintingText": "Sprinting",
+    "sneakingText": "Sneaking",
+    "warned": true,
+    "inventorySneak": {
+      "value": false
+    },
+    "indicator": {
+      "value": true
+    },
+    "fancyFont": {
+      "value": true
+    },
+    "flyModifier": {
+      "value": 1.0
+    },
+    "sizeX": 175.0,
+    "sizeY": 14.0,
+    "centerBox": {
+      "xBox": 27,
+      "yBox": 1,
+      "xOffset": 0.5373352855051244,
+      "yOffset": 0.2916666666666667
+    },
+    "topLeftBox": {
+      "xBox": 25,
+      "yBox": 1,
+      "xOffset": 0.48755490483162517,
+      "yOffset": 0.0
+    },
+    "bottomRightBox": {
+      "xBox": 29,
+      "yBox": 1,
+      "xOffset": 0.5871156661786238,
+      "yOffset": 0.5833333333333334
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "armorStatus": {
+    "armorMode": "BOTH",
+    "armorOrientation": "VERTICAL",
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 68
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "colorSixtyPercent": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "colorFortyPercent": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "colorTenPercent": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": 51,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "colorZeroPercent": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": 0,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "showMaxDurability": {
+      "value": false
+    },
+    "showPercentage": {
+      "value": false
+    },
+    "inversedNumbers": {
+      "value": false
+    },
+    "handPiece": {
+      "value": true
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "potionStatus": {
+    "potionStatusType": "VANILLA",
+    "timeTextColor": {
+      "enabled": true,
+      "color": {
+        "red": -86,
+        "green": -86,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "potionTextColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "vanillaPotions": {
+      "value": true
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "reversedText": {
+      "value": false
+    },
+    "reversedOrder": {
+      "value": false
+    },
+    "blinkingEnabled": {
+      "value": false
+    },
+    "startBlinkingAt": {
+      "value": 0.0
+    },
+    "sizeX": 142.0,
+    "sizeY": 198.0,
+    "centerBox": {
+      "xBox": 1,
+      "yBox": 9,
+      "xOffset": 0.7666666666666667,
+      "yOffset": 0.32592592592592595
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 4,
+      "xOffset": 0.0,
+      "yOffset": 0.9481481481481482
+    },
+    "bottomRightBox": {
+      "xBox": 3,
+      "yBox": 13,
+      "xOffset": 0.55,
+      "yOffset": 0.7111111111111111
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "showFPS": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "reversed": {
+      "value": true
+    },
+    "sizeX": 72.0,
+    "sizeY": 18.0,
+    "centerBox": {
+      "xBox": 31,
+      "yBox": 5,
+      "xOffset": 0.16666666666666666,
+      "yOffset": 0.2074074074074074
+    },
+    "topLeftBox": {
+      "xBox": 30,
+      "yBox": 4,
+      "xOffset": 0.26666666666666666,
+      "yOffset": 0.8
+    },
+    "bottomRightBox": {
+      "xBox": 32,
+      "yBox": 5,
+      "xOffset": 0.06666666666666667,
+      "yOffset": 0.6222222222222222
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.007
+  },
+  "showDirection": {
+    "textColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "directionType": "COMPASS",
+    "drawBackground": false,
+    "sizeX": 247.0,
+    "sizeY": 30.0,
+    "centerBox": {
+      "xBox": 15,
+      "yBox": 0,
+      "xOffset": 0.9666666666666667,
+      "yOffset": 0.6518518518518519
+    },
+    "topLeftBox": {
+      "xBox": 12,
+      "yBox": 0,
+      "xOffset": 0.8833333333333333,
+      "yOffset": 0.0
+    },
+    "bottomRightBox": {
+      "xBox": 19,
+      "yBox": 1,
+      "xOffset": 0.05,
+      "yOffset": 0.2962962962962963
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "showCPS": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "reversed": {
+      "value": true
+    },
+    "sizeX": 72.0,
+    "sizeY": 18.0,
+    "centerBox": {
+      "xBox": 31,
+      "yBox": 6,
+      "xOffset": 0.15333333333333338,
+      "yOffset": 0.35291338582677134
+    },
+    "topLeftBox": {
+      "xBox": 30,
+      "yBox": 5,
+      "xOffset": 0.2,
+      "yOffset": 0.5984251968503937
+    },
+    "bottomRightBox": {
+      "xBox": 32,
+      "yBox": 6,
+      "xOffset": 0.0,
+      "yOffset": 0.47244094488188976
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.016
+  },
+  "showPing": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "foregroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": -1,
+        "blue": 33,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "mode": "ICON",
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 36.0,
+    "sizeY": 27.0,
+    "centerBox": {
+      "xBox": 31,
+      "yBox": 7,
+      "xOffset": 0.1614445034519384,
+      "yOffset": 0.783427495291902
+    },
+    "topLeftBox": {
+      "xBox": 30,
+      "yBox": 7,
+      "xOffset": 0.7137546468401487,
+      "yOffset": 0.1807909604519774
+    },
+    "bottomRightBox": {
+      "xBox": 31,
+      "yBox": 8,
+      "xOffset": 0.6202867764206054,
+      "yOffset": 0.391713747645951
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "keyStroke": {
+    "keystrokeBackgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "keystrokeColorClicked": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": 102
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fontColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fontColorClicked": {
+      "enabled": true,
+      "color": {
+        "red": 71,
+        "green": -103,
+        "blue": -73,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "showMouse": {
+      "value": true
+    },
+    "showSpacebar": {
+      "value": true
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "charScaleFactor": 0.9,
+    "charScaleFactorInverse": 1.1111111111111112,
+    "chroma": {
+      "value": false
+    },
+    "selectedCPSMode": "SMALL",
+    "selectedDirectionIndicator": "WASD",
+    "fadeTime": {
+      "value": 100.0
+    },
+    "spaceWidth": 47,
+    "spaceHeight": 8,
+    "spaceFontYOffset": 3,
+    "spaceFontWidth": 14,
+    "spaceFontHeight": 1,
+    "sizeX": 72.0,
+    "sizeY": 86.0,
+    "centerBox": {
+      "xBox": 31,
+      "yBox": 2,
+      "xOffset": 0.65,
+      "yOffset": 0.11851851851851852
+    },
+    "topLeftBox": {
+      "xBox": 30,
+      "yBox": 0,
+      "xOffset": 0.2,
+      "yOffset": 0.5039370078740157
+    },
+    "bottomRightBox": {
+      "xBox": 32,
+      "yBox": 4,
+      "xOffset": 0.0,
+      "yOffset": 0.7874015748031497
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.079
+  },
+  "showArrows": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 27.0,
+    "sizeY": 42.0,
+    "centerBox": {
+      "xBox": 19,
+      "yBox": 31,
+      "xOffset": 0.6666666666666666,
+      "yOffset": 0.6814814814814815
+    },
+    "topLeftBox": {
+      "xBox": 19,
+      "yBox": 30,
+      "xOffset": 0.325,
+      "yOffset": 0.1626724763979666
+    },
+    "bottomRightBox": {
+      "xBox": 20,
+      "yBox": 32,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "fullbright": {
+    "needsUpdate": false,
+    "toggleTime": 0,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.089
+  },
+  "hitboxes": {
+    "animalHitBoxesEnabled": {
+      "value": true
+    },
+    "itemDropHitboxesEnabled": {
+      "value": true
+    },
+    "monsterHitboxesEnabled": {
+      "value": true
+    },
+    "playerHitboxesEnabled": {
+      "value": true
+    },
+    "projectileHitboxesEnabled": {
+      "value": true
+    },
+    "mainHitboxColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "animalHitboxColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "itemDropHitboxColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "monsterHitboxColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "playerHitboxColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "projectileHitboxColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.083
+  },
+  "enchantGlint": {
+    "legacy": false,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.023
+  },
+  "saturation": {
+    "textColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": -86,
+        "green": -86,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "displayMode": "ICON",
+    "sizeX": 98.0,
+    "sizeY": 10.0,
+    "centerBox": {
+      "xBox": 24,
+      "yBox": 29,
+      "xOffset": 0.4589641434262948,
+      "yOffset": 0.4218455743879473
+    },
+    "topLeftBox": {
+      "xBox": 23,
+      "yBox": 29,
+      "xOffset": 0.2294820717131474,
+      "yOffset": 0.21092278719397364
+    },
+    "bottomRightBox": {
+      "xBox": 25,
+      "yBox": 29,
+      "xOffset": 0.6799468791500664,
+      "yOffset": 0.647834274952919
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.016
+  },
+  "timeChanger": {
+    "timeMultiplier": {
+      "value": 1.0
+    },
+    "timeFrozen": {
+      "value": false
+    },
+    "preset": "ALWAYS_DAY",
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "scoreboard": {
+    "showNumbers": {
+      "value": true
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "defaultRendering": {
+      "value": true
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 80
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "topBackground": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 96
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "reset_complete": true,
+    "startMouseX": 0,
+    "startMouseY": 0,
+    "tempOffsetX": 0,
+    "tempOffsetY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "hovered": false,
+    "sizeX": 152.0,
+    "sizeY": 150.0,
+    "centerBox": {
+      "xBox": 29,
+      "yBox": 13,
+      "xOffset": 0.7862371888726208,
+      "yOffset": 0.14583333333333334
+    },
+    "topLeftBox": {
+      "xBox": 27,
+      "yBox": 9,
+      "xOffset": 0.87701317715959,
+      "yOffset": 0.7916666666666666
+    },
+    "bottomRightBox": {
+      "xBox": 31,
+      "yBox": 16,
+      "xOffset": 0.6954612005856515,
+      "yOffset": 0.5
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.034
+  },
+  "newMiniMap": {
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 53,
+        "green": 55,
+        "blue": 63,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "borderColor": {
+      "enabled": true,
+      "color": {
+        "red": 53,
+        "green": 55,
+        "blue": 63,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "directionColor": {
+      "enabled": true,
+      "color": {
+        "red": 53,
+        "green": 55,
+        "blue": 63,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "directions": {
+      "value": true
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "selected": "FLAT",
+    "sizeX": 110.0,
+    "sizeY": 110.0,
+    "centerBox": {
+      "xBox": 1,
+      "yBox": 2,
+      "xOffset": 0.6046852122986823,
+      "yOffset": 0.8958333333333334
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.2342606149341142,
+      "yOffset": 0.4583333333333333
+    },
+    "bottomRightBox": {
+      "xBox": 2,
+      "yBox": 5,
+      "xOffset": 0.9751098096632503,
+      "yOffset": 0.3333333333333333
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "crosshair": {
+    "widthS": {
+      "value": 0.075
+    },
+    "width": 4,
+    "heightS": {
+      "value": 0.075
+    },
+    "height": 4,
+    "gapS": {
+      "value": 0.05
+    },
+    "gap": 2,
+    "thicknessS": {
+      "value": 0.1
+    },
+    "thickness": 1,
+    "visibleHideGui": {
+      "value": true
+    },
+    "visibleDebugScreen": {
+      "value": true
+    },
+    "visibleSpectatorMode": {
+      "value": true
+    },
+    "visibleThirdPerson": {
+      "value": true
+    },
+    "highlightPlayer": {
+      "value": false
+    },
+    "highlightHostile": {
+      "value": false
+    },
+    "highlightPassive": {
+      "value": false
+    },
+    "dynamicBow": {
+      "value": false
+    },
+    "dynamicAttack": {
+      "value": false
+    },
+    "outline": {
+      "value": false
+    },
+    "dot": {
+      "value": false
+    },
+    "crosshairColor": {
+      "enabled": true,
+      "color": {
+        "red": 15,
+        "green": -16,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "playerColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "hostileColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "passiveColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "outlineColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "dotColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "selected": "CROSS",
+    "sizeX": 0.0,
+    "sizeY": 0.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "blockOverlay": {
+    "outlineColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 104
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fillColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": -1,
+        "blue": -1,
+        "alpha": 54
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "thickness": {
+      "value": 2.0
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.083
+  },
+  "fovChanger": {
+    "dynamicSwiftness": {
+      "value": true
+    },
+    "flyingS": {
+      "value": 0.5875
+    },
+    "flying": 77,
+    "slownessS": {
+      "value": 0.375
+    },
+    "slowness": 60,
+    "sprintingS": {
+      "value": 0.5125
+    },
+    "sprinting": 71,
+    "swiftnessS": {
+      "value": 0.5875
+    },
+    "swiftness": 77,
+    "defaultFovS": {
+      "value": 0.5
+    },
+    "defaultFov": 70,
+    "sizeX": 0.0,
+    "sizeY": 0.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 0,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "showPotions": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 27.0,
+    "sizeY": 42.0,
+    "centerBox": {
+      "xBox": 21,
+      "yBox": 31,
+      "xOffset": 0.7666666666666667,
+      "yOffset": 0.6814814814814815
+    },
+    "topLeftBox": {
+      "xBox": 21,
+      "yBox": 30,
+      "xOffset": 0.325,
+      "yOffset": 0.1626724763979666
+    },
+    "bottomRightBox": {
+      "xBox": 22,
+      "yBox": 32,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "autoGG": {
+    "delayS": {
+      "value": 0.0
+    },
+    "delay": 0,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "animations": {
+    "itemHeld": {
+      "value": false
+    },
+    "blockHit": {
+      "value": false
+    },
+    "heartAnimation": {
+      "value": false
+    },
+    "damageAnimation": {
+      "value": false
+    },
+    "sneakingAnimation": {
+      "value": false
+    },
+    "eatAnimation": {
+      "value": false
+    },
+    "thrownItems": {
+      "value": false
+    },
+    "bowAnimation": {
+      "value": false
+    },
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.034
+  },
+  "notification": {
+    "sizeX": 194.0,
+    "sizeY": 309.0,
+    "centerBox": {
+      "xBox": 29,
+      "yBox": 24,
+      "xOffset": 0.9261816250663835,
+      "yOffset": 0.8135593220338984
+    },
+    "topLeftBox": {
+      "xBox": 27,
+      "yBox": 18,
+      "xOffset": 0.654275092936803,
+      "yOffset": 0.4067796610169492
+    },
+    "bottomRightBox": {
+      "xBox": 32,
+      "yBox": 31,
+      "xOffset": 0.19543281996813594,
+      "yOffset": 0.22598870056497175
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "itemCounter": {
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.034
+  },
+  "showFood": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 27.0,
+    "sizeY": 42.0,
+    "centerBox": {
+      "xBox": 21,
+      "yBox": 31,
+      "xOffset": 1.4666666666666672,
+      "yOffset": 0.6814814814814815
+    },
+    "topLeftBox": {
+      "xBox": 22,
+      "yBox": 30,
+      "xOffset": 0.5,
+      "yOffset": 0.1626724763979666
+    },
+    "bottomRightBox": {
+      "xBox": 23,
+      "yBox": 32,
+      "xOffset": 0.175,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "showGapple": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 27.0,
+    "sizeY": 42.0,
+    "centerBox": {
+      "xBox": 21,
+      "yBox": 31,
+      "xOffset": -0.633333333333334,
+      "yOffset": 0.6814814814814815
+    },
+    "topLeftBox": {
+      "xBox": 21,
+      "yBox": 30,
+      "xOffset": 0.325,
+      "yOffset": 0.1626724763979666
+    },
+    "bottomRightBox": {
+      "xBox": 22,
+      "yBox": 32,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "showEnchantedGapple": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 27.0,
+    "sizeY": 42.0,
+    "centerBox": {
+      "xBox": 21,
+      "yBox": 31,
+      "xOffset": 0.06666666666666633,
+      "yOffset": 0.6814814814814815
+    },
+    "topLeftBox": {
+      "xBox": 21,
+      "yBox": 30,
+      "xOffset": 0.325,
+      "yOffset": 0.1626724763979666
+    },
+    "bottomRightBox": {
+      "xBox": 22,
+      "yBox": 32,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "showSoup": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 27.0,
+    "sizeY": 42.0,
+    "centerBox": {
+      "xBox": 21,
+      "yBox": 31,
+      "xOffset": 2.166666666666668,
+      "yOffset": 0.6814814814814815
+    },
+    "topLeftBox": {
+      "xBox": 21,
+      "yBox": 30,
+      "xOffset": 0.675,
+      "yOffset": 0.1626724763979666
+    },
+    "bottomRightBox": {
+      "xBox": 22,
+      "yBox": 32,
+      "xOffset": 0.35,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "waypoints": {
+    "waypoints": [],
+    "openKey": {
+      "value": 50
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "motionBlur": {
+    "blurS": {
+      "value": 0.7
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "chat": {
+    "chatBackgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 127
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "textBackgroundShadow": {
+      "value": true
+    },
+    "timeStamp24h": {
+      "value": true
+    },
+    "timeStampBold": {
+      "value": false
+    },
+    "antiSpam": {
+      "value": false
+    },
+    "timeStampType": "NONE",
+    "timeStampColor": "WHITE",
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.034
+  },
+  "bossBar": {
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.083
+  },
+  "clearWater": {
+    "opacity": {
+      "value": 100.0
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.083
+  },
+  "armorStatusPieceZero": {
+    "armorIndex": 0,
+    "sizeX": 33.0,
+    "sizeY": 26.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 23,
+      "xOffset": 0.4166666666666667,
+      "yOffset": 0.022930186823992133
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 22,
+      "xOffset": 0.0,
+      "yOffset": 0.06293018682399214
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 23,
+      "xOffset": 0.8333333333333334,
+      "yOffset": 0.9754178957718781
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "armorStatusPieceOne": {
+    "armorIndex": 1,
+    "sizeX": 33.0,
+    "sizeY": 26.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 21,
+      "xOffset": 0.4166666666666667,
+      "yOffset": 0.12586037364798427
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 20,
+      "xOffset": 0.0,
+      "yOffset": 0.1887905604719764
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 22,
+      "xOffset": 0.8333333333333334,
+      "yOffset": 0.06293018682399214
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "armorStatusPieceTwo": {
+    "armorIndex": 2,
+    "sizeX": 33.0,
+    "sizeY": 26.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 19,
+      "xOffset": 0.4166666666666667,
+      "yOffset": 0.2402556538839725
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 18,
+      "xOffset": 0.0,
+      "yOffset": 0.2831858407079646
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 20,
+      "xOffset": 0.8333333333333334,
+      "yOffset": 0.1887905604719764
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "armorStatusPieceThree": {
+    "armorIndex": 3,
+    "sizeX": 33.0,
+    "sizeY": 26.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 17,
+      "xOffset": 0.4166666666666667,
+      "yOffset": 0.34318584070796465
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 16,
+      "xOffset": 0.0,
+      "yOffset": 0.31465093411996065
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 18,
+      "xOffset": 0.8333333333333334,
+      "yOffset": 0.1887905604719764
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "armorStatusPieceFour": {
+    "armorIndex": 4,
+    "sizeX": 33.0,
+    "sizeY": 26.0,
+    "centerBox": {
+      "xBox": 0,
+      "yBox": 15,
+      "xOffset": 0.4166666666666667,
+      "yOffset": 0.46611602753195686
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 14,
+      "xOffset": 0.0,
+      "yOffset": 0.471976401179941
+    },
+    "bottomRightBox": {
+      "xBox": 0,
+      "yBox": 16,
+      "xOffset": 0.8333333333333334,
+      "yOffset": 0.34611602753195675
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.008
+  },
+  "showUsersLeft": {
+    "sizeX": 182.0,
+    "sizeY": 341.0,
+    "centerBox": {
+      "xBox": 2,
+      "yBox": 17,
+      "xOffset": 0.23333333333333334,
+      "yOffset": 1.0829301868239927
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 8,
+      "xOffset": 0.0,
+      "yOffset": 0.9754178957718781
+    },
+    "bottomRightBox": {
+      "xBox": 4,
+      "yBox": 25,
+      "xOffset": 0.55,
+      "yOffset": 0.06293018682399214
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "showUsersRight": {
+    "sizeX": 182.0,
+    "sizeY": 341.0,
+    "centerBox": {
+      "xBox": 30,
+      "yBox": 18,
+      "xOffset": 0.3,
+      "yOffset": 0.051465093411996066
+    },
+    "topLeftBox": {
+      "xBox": 27,
+      "yBox": 10,
+      "xOffset": 0.4666666666666667,
+      "yOffset": 0.0
+    },
+    "bottomRightBox": {
+      "xBox": 32,
+      "yBox": 26,
+      "xOffset": 0.0,
+      "yOffset": 0.0
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "showTimeIcon": {
+    "sizeX": 226.0,
+    "sizeY": 55.0,
+    "centerBox": {
+      "xBox": 15,
+      "yBox": 1,
+      "xOffset": 0.9833333333333333,
+      "yOffset": 0.2831858407079646
+    },
+    "topLeftBox": {
+      "xBox": 13,
+      "yBox": 0,
+      "xOffset": 0.16666666666666666,
+      "yOffset": 0.0
+    },
+    "bottomRightBox": {
+      "xBox": 18,
+      "yBox": 2,
+      "xOffset": 0.8,
+      "yOffset": 0.5663716814159292
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "chooseMap": {
+    "sizeX": 1348.0,
+    "sizeY": 131.0,
+    "centerBox": {
+      "xBox": 15,
+      "yBox": 16,
+      "xOffset": 0.95,
+      "yOffset": 0.5034414945919371
+    },
+    "topLeftBox": {
+      "xBox": 0,
+      "yBox": 13,
+      "xOffset": 0.16666666666666666,
+      "yOffset": 0.5978367748279253
+    },
+    "bottomRightBox": {
+      "xBox": 31,
+      "yBox": 19,
+      "xOffset": 0.75,
+      "yOffset": 0.40904621435594885
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "autoText": {
+    "entries": [
+      {
+        "toggleKey": {
+          "value": 0
+        },
+        "command": "ramn",
+        "name": "messi",
+        "objectEnabled": true,
+        "objectName": "Name"
+      }
+    ],
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "showItemPickupInfo": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": false,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "sizeX": 298.0,
+    "sizeY": 28.0,
+    "centerBox": {
+      "xBox": 16,
+      "yBox": 26,
+      "xOffset": 0.0,
+      "yOffset": 0.28346456692913385
+    },
+    "topLeftBox": {
+      "xBox": 12,
+      "yBox": 25,
+      "xOffset": 0.2833333333333333,
+      "yOffset": 0.6299212598425197
+    },
+    "bottomRightBox": {
+      "xBox": 19,
+      "yBox": 26,
+      "xOffset": 0.7333333333333333,
+      "yOffset": 0.8944881889763779
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.013
+  },
+  "showProtection": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": false
+    },
+    "selected": "BOTTOM_LEFT",
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.083
+  },
+  "perspective": {
+    "f5MenuOption": {
+      "value": false
+    },
+    "keyBind": {
+      "value": 56
+    },
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.017
+  },
+  "cwModToggle": {
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.083
+  },
+  "levelHead": {
+    "showSelf": {
+      "value": true
+    },
+    "displayValue": "Level",
+    "displayValues": [
+      "Level"
+    ],
+    "prefixColor": "AQUA",
+    "suffixColor": "YELLOW",
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "autotip": {
+    "config": {
+      "locale": "en_US",
+      "messageOption": "SHOWN"
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "shinypots": {
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.0
+  },
+  "reachDisplay": {
+    "labelColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "backgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 40,
+        "green": 43,
+        "blue": 51,
+        "alpha": -77
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "fancyFont": {
+      "value": true
+    },
+    "reversed": {
+      "value": true
+    },
+    "show0Blocks": {
+      "value": true
+    },
+    "sizeX": 197.0,
+    "sizeY": 38.0,
+    "centerBox": {
+      "xBox": 15,
+      "yBox": 26,
+      "xOffset": 0.9297218155197657,
+      "yOffset": 0.7916666666666666
+    },
+    "topLeftBox": {
+      "xBox": 13,
+      "yBox": 25,
+      "xOffset": 0.4699853587115666,
+      "yOffset": 0.9583333333333334
+    },
+    "bottomRightBox": {
+      "xBox": 18,
+      "yBox": 27,
+      "xOffset": 0.38945827232796487,
+      "yOffset": 0.625
+    },
+    "startDisplayX": 1280,
+    "startDisplayY": 720,
+    "favorite": false,
+    "enabled": true,
+    "zIndex": 100,
+    "fontOffset": 0.016
+  },
+  "particles": {
+    "sharpnessParticles": {
+      "value": false
+    },
+    "particleMulti": {
+      "value": 1.0
+    },
+    "favorite": false,
+    "enabled": false,
+    "zIndex": 100,
+    "fontOffset": 0.009
+  },
+  "betterframesConfig": {
+    "renderImprovements": "EXPERIMENTAL",
+    "weather": {
+      "value": true
+    },
+    "reducedChunkUpdates": {
+      "value": true
+    },
+    "fogEnabled": {
+      "value": true
+    },
+    "worldSwitchDirtScreen": {
+      "value": true
+    },
+    "chatNameColor": {
+      "enabled": true,
+      "color": {
+        "red": -1,
+        "green": -1,
+        "blue": -1,
+        "alpha": -1
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "newChat": {
+      "value": true
+    },
+    "clearGlass": {
+      "value": true
+    },
+    "disableAcheievements": {
+      "value": true
+    },
+    "badlionCloakType": "RECTANGLE",
+    "headIconType": "NONE",
+    "watermarkLocation": "ABOVE_INVENTORY",
+    "shieldLocation": "ARM",
+    "centeredPotionInventory": {
+      "value": true
+    },
+    "borderlessWindow": {
+      "value": true
+    },
+    "snapFitting": {
+      "value": true
+    },
+    "pingNumbers": {
+      "value": true
+    },
+    "showWings": {
+      "value": true
+    },
+    "showShield": {
+      "value": true
+    }
+  },
+  "chatSettings": {
+    "chatBackgroundColor": {
+      "enabled": true,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 0,
+        "alpha": 127
+      },
+      "breathingSpeed": 1,
+      "mode": "STATIC",
+      "up": true,
+      "ticks": 0
+    },
+    "textBackgroundShadow": {
+      "value": true
+    },
+    "timeStamp24h": {
+      "value": true
+    },
+    "fancyFont": {
+      "value": true
+    },
+    "filterDm": {
+      "value": false
+    },
+    "vanillaBackground": {
+      "value": false
+    },
+    "timeStampType": "NONE",
+    "timeStampColor": "WHITE",
+    "opacityS": 0.9,
+    "opacityIngame": 0.7,
+    "chatHeightUnfocused": 0.44366196,
+    "chatHeightFocused": 1.0
+  },
+  "friendSettings": {
+    "openKey": 34
+  },
+  "slideoutSettings": {
+    "openKey": {
+      "value": 54
+    },
+    "quickSlideout": {
+      "value": false
+    },
+    "slideoutOpacity": {
+      "value": 0.5019607843137255
+    }
+  }
+}
