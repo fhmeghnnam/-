@@ -3821,4 +3821,4 @@ return channel.send("**`افضل موقع بيديك حسابات مجانا ل�
     )});
 
 
-client.login("NTM1MDc5MDc2ODE4MzIxNDE5.DyDXiw.cC-pfp8TIT1gvGCPCKWNCwZC7cQ");
+client.login("");
