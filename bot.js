@@ -3819,4 +3819,7 @@ client.on('guildMemberAdd', member => {
 return channel.send("**`افضل موقع بيديك حسابات مجانا لكل الالعاب ال ممكن تتخيلها` \n **")
     }
     )});
+
+
 client.login(process.env.BOT_TOKEN)
+
